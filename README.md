@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hey, I'm Serhii👋
+I`m 27-year-old developer based in USA, and I'm passionate about crafting digital experiences.
 
-<!--
-**stupns/stupns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📦 Toolbox
 
-Here are some ideas to get you started:
+**Frontend Development:** `React`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend Development:** `Python`
+
+**Frameworks** `Django` `Flask` `FastAPI` `RESTful API`
+ 
+**Version Control:** `Git` `Bitbucket`
+
+**Testing:** `Postman` 
+
+**Others:**  `Scrum` `Jira`
+ 
+## ✨ Fun Facts 
+
+- Even though I’m a Python web developer, every time I use 'print', a part of me expects to hear my printer start whirring.=)
+
+## 📫 Contact
+
+ For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/stupns96/). 
