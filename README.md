@@ -1,5 +1,5 @@
 ### Hey, I'm Serhii👋
-I`m 27-year-old developer based in USA, and I'm passionate about crafting digital experiences.
+I`m 29-year-old developer based in USA, and I'm passionate about crafting digital experiences.
 
 ## 📦 Toolbox
 
